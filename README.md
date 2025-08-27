@@ -1,4 +1,4 @@
-# Enterprice Business process platform
+# Enterprice Business Process Engine
 
 ## Functions
 
